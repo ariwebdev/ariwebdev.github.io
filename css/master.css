@@ -473,6 +473,14 @@ form {
   width: 100%;
 }
 
+.article a {
+  color: rgba(0, 191, 255, 0.9);
+}
+
+.article a:hover {
+  color: deepskyblue;
+}
+
 .article-controls {
   display: -webkit-flex;
   display: -ms-flexbox;
