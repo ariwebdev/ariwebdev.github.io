@@ -73,7 +73,7 @@ var tipuesearch_string_15 = 'Searches related to';
 
 // Internals
 
-var tipuesearch_pages = ["how-to-write-css-quickly.html", "how-to-link-your-laptop-to-conference-room-tv", "how-to-make-an-editable-pdf.html" ];
+var tipuesearch_pages = ["how-to-write-css-quickly.html", "how-to-link-your-laptop-to-conference-room-tv.html", "how-to-make-an-editable-pdf.html" ];
 
 
 
