@@ -467,6 +467,12 @@ form {
   color: #323c46;
 }
 
+.article--copy img {
+  max-width: 600px;
+  display: block;
+  width: 100%;
+}
+
 .article-controls {
   display: -webkit-flex;
   display: -ms-flexbox;
