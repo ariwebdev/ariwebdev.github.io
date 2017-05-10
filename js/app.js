@@ -10,7 +10,7 @@ $(function() {
   })
 
   $(window).resize(function() {
-    if ($(window).width() >= 1024) {
+    if ($(window).width() >= 765) {
       mobileOverlay.removeClass('is-active')
       body.removeClass('fixed')
       mobileIcon.removeClass('is-active')
