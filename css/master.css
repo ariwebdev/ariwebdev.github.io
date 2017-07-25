@@ -41,6 +41,10 @@ img {
   position: fixed !important;
 }
 
+.fixed .red {
+  color: red;
+}
+
 * {
   box-sizing: border-box;
 }
