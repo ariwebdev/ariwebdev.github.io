@@ -90,6 +90,10 @@ form {
   margin: 0;
 }
 
+strong {
+  font-family: sans-serif;
+}
+
 .l-homepage-header {
   width: 100%;
   background: url(../images/homepage-header-bg.jpg) no-repeat center center/cover;
